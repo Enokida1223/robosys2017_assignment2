@@ -1,7 +1,9 @@
 # robosys2017_assignment2
+１５２６０２４　榎田真琴
+
 RaspberryPi3でカウント機能とLED点灯
 ## Demo
-[カウントとLチカ（PWM）](https://www.youtube.com/watch?v=A7AUHAlWvvs)
+[カウントとLチカ（PWM）](https://youtu.be/A7AUHAlWvvs)
 ## Requirements
 + RaspberryPi3
   + Ubuntu
