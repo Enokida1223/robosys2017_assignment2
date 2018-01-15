@@ -17,14 +17,14 @@ pi.set_PWM_range(PIN, RANGE)
 
 
 try:
-    d = 0
-    r = 20
+    a = 0
+    b = 20
     while True:
-        pi.set_PWM_dutycycle(PIN, d)
-        sleep(1.5)
-        d += r
-        if d >= RANGE or d <= 0:
-            r *= -1
+        pi.set_PWM_dutycycle(PIN, a)
+        sleep(0.01)
+        a += b
+        if a >= RANGE or a <= 0:
+            b *= -1
 
 except KeyboardInterrupt:
     pass
