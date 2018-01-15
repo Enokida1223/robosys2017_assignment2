@@ -2,7 +2,7 @@
 １５２６０２4　榎田真琴
 
 RaspberryPi3でカウント機能とLED点灯  
-講義で行ったroslaunchを用いて＋２ずつカウント 
+講義で行ったroslaunchを用いて＋２ずつカウント  
 pigpioを用いPWM制御でLEDを点滅させる 
 ## Demo
 [カウントとLチカ（PWM）](https://youtu.be/A7AUHAlWvvs)
