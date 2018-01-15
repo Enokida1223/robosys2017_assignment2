@@ -1,5 +1,5 @@
 # robosys2017_assignment2
-１５２６０２４　榎田真琴
+１５２６０２4　榎田真琴
 
 RaspberryPi3でカウント機能とLED点灯
 ## Demo
