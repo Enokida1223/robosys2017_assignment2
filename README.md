@@ -1,9 +1,9 @@
 # robosys2017_assignment2
 １５２６０２4　榎田真琴
 
-RaspberryPi3でカウント機能とLED点灯
-roslaunchを用いて＋２ずつカウントを行う
-PWM制御でLEDの点滅
+RaspberryPi3でカウント機能とLED点灯  
+講義で行ったroslaunchを用いて＋２ずつカウント 
+PWM制御でLEDの点滅  
 ## Demo
 [カウントとLチカ（PWM）](https://youtu.be/A7AUHAlWvvs)
 ## Requirements
