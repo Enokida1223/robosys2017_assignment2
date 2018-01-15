@@ -19,6 +19,6 @@ PWM制御でLEDの点滅
 + カウントを行う  
  `rostopic echo /twice`
 + LEDを光らせる   
-`rosrun mypkg led.py`
+ `rosrun mypkg led.py`
 ## Reference/Quotation
 [ロボットシステム学 講義資料](https://github.com/ryuichiueda/robosys2017/blob/master/12.md)
