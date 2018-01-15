@@ -11,7 +11,7 @@ RaspberryPi3でカウント機能とLED点灯
 + LED  
 + 抵抗器(10Ω)  
 ## Circuit
-![](回路の画像のURL)　//これはお好み
+![](https://github.com/Enokida1223/robosys2017_assignment2/blob/master/IMG_7233.JPG)　
 ## Usage
 + LEDを光らせる  
 `echo 1 > /dev/myled0`
